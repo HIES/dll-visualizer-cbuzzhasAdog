@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DLLVisualizer
+comment0.text=\n\ A\ class\ that\ utilizes\ the\ BRIDGES\ library\ to\ visualize\ a\ doubly-linked\ list.\n\n\ @author\ (your\ name)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ @param\ args\ the\ command\ line\ arguments\n\ @throws\ java.lang.Exception\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Track
+comment0.text=\n\ A\ class\ to\ model\ a\ digital\ music\ track.\n\ \n\ @author\ ian.frame\n
+comment1.params=title\ artist
+comment1.target=Track(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

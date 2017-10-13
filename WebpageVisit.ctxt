@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WebpageVisit
+comment0.text=\n\ A\ class\ to\ model\ a\ visit\ to\ a\ webpage\ for\ a\ \n\ browser's\ back/forward\ functionality.\n\ \n\ @author\ ian.frame\n
+comment1.params=url\ usesCookies
+comment1.target=WebpageVisit(java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

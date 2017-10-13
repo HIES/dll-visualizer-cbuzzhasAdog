@@ -12,6 +12,9 @@ public class Track {
         this.title = title;
         this.artist = artist;
     }
+    public String getName(){
+        return title;
+    }
     
     @Override
     public String toString(){
